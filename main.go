@@ -6,6 +6,8 @@ import (
 	"encoding/gob"
 )
 
+// comment
+
 const (
 	_ = iota
 	CREATE_TASK
